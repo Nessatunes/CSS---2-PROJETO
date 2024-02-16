@@ -1,3 +1,5 @@
-<h1> Projeto CSS - DevClub</h1>
+<h1> Projeto CSS - Wide coverage location - DevClub</h1>
 <br>
-<h2>Esse foi o segundo projeto que aprendi no <a href="https://rodolfomori.com.br">DevClub</a></h2>
+<h3>Esse foi o segundo projeto que aprendi no DevClub</h3>
+
+<img src="https://github.com/Nessatunes/CSS---2-PROJETO/blob/main/Foto.png"/>
